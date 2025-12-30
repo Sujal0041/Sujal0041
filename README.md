@@ -9,11 +9,14 @@ Full-stack developer building scalable mobile & web apps with .NET 8, React Nati
 
 #### Skills
 
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
-[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
