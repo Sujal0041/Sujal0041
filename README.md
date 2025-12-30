@@ -1,4 +1,4 @@
-Hi <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="50px" alt="Waving hand"/>  my name is Sujal Tamrakar
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand"/> Hi, my name is Sujal Tamrakar
 
 ### Full-Stack Developer
 
