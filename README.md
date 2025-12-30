@@ -1,5 +1,5 @@
 ### Live Status
-[![Discord Status](https://lanyard.cnrad.dev/api/theonewhoknocks2934)](https://discord.com/users/theonewhoknocks2934)
+[![Discord Status](https://lanyard.cnrad.dev/api/394825121736687616)](https://discord.com/users/394825121736687616)
 
 # Hi there 👋 I'm Sujal Tamrakar  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
