@@ -1,17 +1,40 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand"/> My Name is Sujal Tamrakar.
+# Hi there 👋 I'm Sujal Tamrakar  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
 
-### Full-Stack Developer
+## 🚀 Full-Stack Developer | Mobile & Web
 
-Full-stack developer building scalable mobile & web apps with .NET 8, React Native, and PostgreSQL. Skilled in database optimization, API integrations, and dynamic features. BSc (Hons) Computing | AWS ML Foundations certified. 🚀
+I’m a **Full-Stack Developer** who loves building **scalable, high-performance mobile and web applications**.  
+I work mainly with **.NET 8, React Native, PostgreSQL**, and modern web technologies.
 
-- 🌍 I'm based in Kathmandu, Nepal
-- ✉️ You can contact me at [sujal.sth148@gmail.com](mailto:sujal.sth148@gmail.com)
+🎓 **BSc (Hons) Computing**  
+☁️ **AWS Machine Learning Foundations – Certified**
 
-#### Skills
+---
 
+### 👨‍💻 What I Do
+- Build **cross-platform mobile apps** with React Native  
+- Develop **robust REST APIs** using .NET 8  
+- Design and optimize **PostgreSQL databases**  
+- Integrate **third-party APIs** and real-time features  
+- Focus on **clean architecture, performance, and scalability**
+
+---
+
+### 🌍 About Me
+- 📍 Based in **Kathmandu, Nepal**
+- ✉️ Reach me at **[sujal.sth148@gmail.com](mailto:sujal.sth148@gmail.com)**
+- 🤝 Open to **collaborations, freelance work, and full-time opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+
+#### Frontend & Mobile
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -19,11 +42,17 @@ Full-stack developer building scalable mobile & web apps with .NET 8, React Nati
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+
+#### Tools & Version Control
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-#### Socials
+---
 
+### 🌐 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sujal-tamrakar)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sujal0041)
 
-Open to collaborations & opportunities!
+---
+
+✨ *Always learning. Always building. Always improving.*  
+Let’s create something awesome together!
