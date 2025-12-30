@@ -16,7 +16,6 @@ Full-stack developer building scalable mobile & web apps with .NET 8, React Nati
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
