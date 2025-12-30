@@ -1,12 +1,13 @@
-### Live Status
-<!-- Online status -->
-![currently](https://img.shields.io/badge/dynamic/json?label=currently&query=%24.data.discord_status&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+### 🟢 Live Status
 
-<!-- Playing (first activity name, fallback may be blank if none) -->
-![playing](https://img.shields.io/badge/dynamic/json?label=playing&query=%24.data.activities%5B0%5D.name&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+![status](https://img.shields.io/badge/dynamic/json?label=currently&query=%24.data.discord_status&style=for-the-badge&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
 
-<!-- Listening to Spotify track (only shows when Spotify is active) -->
-![listening](https://img.shields.io/badge/dynamic/json?label=listening%20to&query=%24.data.spotify.song&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+![playing](https://img.shields.io/badge/dynamic/json?label=playing&query=%24.data.activities%5B0%5D.name&style=for-the-badge&color=5865F2&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
+
+![coding](https://img.shields.io/badge/coding/nothing%20rn-4CAF50?style=for-the-badge)
+
+![listening](https://img.shields.io/badge/dynamic/json?label=listening%20to&query=%24.data.spotify.song&style=for-the-badge&color=1DB954&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
+
 
 
 # Hi there 👋 I'm Sujal Tamrakar  
