@@ -1,15 +1,3 @@
-### 🟢 Live Status
-
-![status](https://img.shields.io/badge/dynamic/json?label=currently&query=%24.data.discord_status&style=for-the-badge&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
-
-![playing](https://img.shields.io/badge/dynamic/json?label=playing&query=%24.data.activities%5B0%5D.name&style=for-the-badge&color=5865F2&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
-
-![coding](https://img.shields.io/badge/coding/nothing%20rn-4CAF50?style=for-the-badge)
-
-![listening](https://img.shields.io/badge/dynamic/json?label=listening%20to&query=%24.data.spotify.song&style=for-the-badge&color=1DB954&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F394825121736687616)
-
-
-
 # Hi there 👋 I'm Sujal Tamrakar  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
 
