@@ -1,4 +1,4 @@
-👋 Hi, my name is Sujal Tamrakar
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand"/> Hi, my name is Sujal Tamrakar
 
 ### Full-Stack Developer
 
