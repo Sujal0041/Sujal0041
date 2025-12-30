@@ -1,5 +1,13 @@
 ### Live Status
-[![Discord Status](https://lanyard.cnrad.dev/api/394825121736687616)](https://discord.com/users/394825121736687616)
+<!-- Online status -->
+![currently](https://img.shields.io/badge/dynamic/json?label=currently&query=%24.data.discord_status&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+
+<!-- Playing (first activity name, fallback may be blank if none) -->
+![playing](https://img.shields.io/badge/dynamic/json?label=playing&query=%24.data.activities%5B0%5D.name&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+
+<!-- Listening to Spotify track (only shows when Spotify is active) -->
+![listening](https://img.shields.io/badge/dynamic/json?label=listening%20to&query=%24.data.spotify.song&url=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%394825121736687616)
+
 
 # Hi there 👋 I'm Sujal Tamrakar  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
